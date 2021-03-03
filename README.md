@@ -1,4 +1,4 @@
-# ImageProcessing
+# Image Brightness Example
 
 ImageProcessing WinForms can change luminosity and brightness of image and save to file.
 
